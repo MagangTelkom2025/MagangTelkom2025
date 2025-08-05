@@ -252,8 +252,6 @@ timeline
 ### 📧 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magang.telkom2025@gmail.com)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 ### 🏢 Infomedia by Telkom Indonesia
 
