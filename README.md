@@ -258,8 +258,8 @@ timeline
 ### 🏢 Infomedia by Telkom Indonesia
 
 **Divisi IT CC Inbound**  
-Jl. Japati No. 1, Bandung 40133  
-📞 +62-22-520-2020
+Gedung Telkom Pahlawan Lantai 6
+jl. Pahlawan No.10, Semarang 
 
 </div>
 
