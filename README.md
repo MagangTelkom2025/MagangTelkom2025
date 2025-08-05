@@ -162,28 +162,27 @@ _Project details akan diupdate seiring berjalannya program magang_
 
 ---
 
-## 📈 Team Contribution Graph
+## 📈 Team Development Workflow
 
 <div align="center">
   
   ```mermaid
-  gitgraph
-      commit id: "Project Init"
-      branch feature/backend
-      checkout feature/backend
-      commit id: "Laravel Setup"
-      commit id: "Database Migration"
-      checkout main
-      merge feature/backend
-      branch feature/frontend
-      checkout feature/frontend
-      commit id: "Tailwind Setup"
-      commit id: "Bootstrap Components"
-      checkout main
-      merge feature/frontend
-      commit id: "Integration"
-      commit id: "Testing"
-      commit id: "Deployment"
+  graph LR
+      A[🔍 Project Init] --> B[🔨 Backend Development]
+      A --> C[🎨 Frontend Development]
+      B --> D[Laravel Setup]
+      B --> E[Database Migration]
+      C --> F[Tailwind Setup]
+      C --> G[Bootstrap Components]
+      D --> H[Integration Testing]
+      E --> H
+      F --> H
+      G --> H
+      H --> I[🚀 Deployment]
+      
+      style A fill:#e74c3c,stroke:#c0392b,color:#fff
+      style H fill:#f39c12,stroke:#e67e22,color:#fff
+      style I fill:#27ae60,stroke:#229954,color:#fff
   ```
   
 </div>
@@ -257,7 +256,7 @@ timeline
 
 **Divisi IT CC Inbound**  
 Gedung Telkom Pahlawan Lantai 6
-jl. Pahlawan No.10, Semarang 
+jl. Pahlawan No.10, Semarang
 
 </div>
 
