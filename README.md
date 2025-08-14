@@ -43,7 +43,7 @@ Repository ini merupakan **pusat pengembangan project** selama program magang di
   | <img src="https://github.com/admiral-riz.png" width="60" height="60" style="border-radius: 50%;"> | [**admiral-riz**](https://github.com/admiral-riz) | ⚡ Web Developer | Full Stack Development |
   | <img src="https://github.com/feastco.png" width="60" height="60" style="border-radius: 50%;"> | [**feastco**](https://github.com/feastco) | ⚡ Frontend Expert | Full Stack Development |
   | <img src="https://github.com/faqihhidayatullah.png" width="60" height="60" style="border-radius: 50%;"> | [**faqihhidayatullah**](https://github.com/faqihhidayatullah) | ⚡ Web Developer | Full Stack Development |
-  | <img src="https://github.com/CyDreal.png" width="60" height="60" style="border-radius: 50%;"> | [**CyDreal**](https://github.com/CyDreal) | 🔥 Lead Developer | Full Stack Development |
+  | <img src="https://github.com/CyDreal.png" width="60" height="60" style="border-radius: 50%;"> | [**CyDreal**](https://github.com/CyDreal) | 🔥 Lead Developer | Project Manager |
 
 </div>
 
